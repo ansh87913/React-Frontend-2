@@ -4,7 +4,7 @@ import { Task } from "./components/Task_2";
 
 function App() {
   return (
-    <div className="App">
+    <div>
       <Task/>
     </div>
   );
