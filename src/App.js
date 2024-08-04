@@ -4,7 +4,7 @@ import { Task } from "./components/Task_2";
 
 function App() {
   return (
-    <div style={{backgroundColor:"black"}}>
+    <div>
       <Task/>
     </div>
   );
